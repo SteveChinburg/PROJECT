@@ -1,0 +1,11 @@
+<DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>end.handlebars</title>
+    </head>
+    <body>
+        {{{Even though we saw that three years ago, we still laugh to this day.}}}
+    </body>
+        <a href=/"middle.handlebars"><Middle></a>
+        <a href="http://:beginning.handlebars"><beginning></a>
+</html>
